@@ -51,7 +51,7 @@ export const ProductDetails = () => {
                   <p className="text-gray-500 text-sm">
                     By{" "}
                     <a href="/" className="text-blue-500 hover:underline">
-                      Med Store
+                      RK Enterprises
                     </a>
                   </p>
                   <div className="flex items-center space-x-4 my-4">

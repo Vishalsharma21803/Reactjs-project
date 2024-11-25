@@ -58,10 +58,10 @@ div {
     text-align: center;
 }
 .minus:hover{
-    background-color: #717fe0 !important;
+    background-color: #0ac889 !important;
 }
 .plus:hover{
-    background-color: #717fe0 !important;
+    background-color: #1fe184 !important;
 }
 /*Prevent text selection*/
 span{

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./css_files/Header.css";
-import Logo from "../images/logo.png";
+import Logo from "../images/logo.png"
 import { BsPersonPlusFill, BsPersonFill } from "react-icons/bs";
 import { FiSettings, FiSearch } from "react-icons/fi";
 import { RiShareForward2Line } from "react-icons/ri";

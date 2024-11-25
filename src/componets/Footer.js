@@ -11,7 +11,7 @@ const Footer = () => {
           <a href="/*" className="flex items-center">
             <img src={logo} className="h-8 mr-3" alt="FlowBite Logo" />
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              Med Store
+              RK Enterprises
             </span>
           </a>
         </div>
@@ -42,29 +42,8 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
-              Follow us
-            </h2>
-            <ul className="text-gray-600 dark:text-gray-400">
-              <li className="mb-4">
-                <a
-                  href="https://github.com/med134"
-                  className="hover:underline "
-                  target="blank"
-                >
-                  Github
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://vivacode.dev/"
-                  className="hover:underline"
-                  target="blank"
-                >
-                  portfolio
-                </a>
-              </li>
-            </ul>
+            
+            
           </div>
           <div>
             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
@@ -88,13 +67,13 @@ const Footer = () => {
       <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
       <div className="sm:flex sm:items-center sm:justify-between">
         <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
-          © 2023{" "}
+          © 2024{" "}
           <a
-            href="https://vivacode.dev/"
+            href="#"
             className="hover:underline"
             target="blank"
           >
-            med Dakir
+            RK Enterprises
           </a>
           . All Rights Reserved.
         </span>
@@ -136,7 +115,7 @@ const Footer = () => {
             <span className="sr-only">Instagram page</span>
           </a>
           <a
-            href="https://twitter.com/SimoDakir5"
+            href="#"
             target='blank'
             className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
           >
@@ -151,7 +130,7 @@ const Footer = () => {
             <span className="sr-only">Twitter page</span>
           </a>
           <a
-            href="https://github.com/med134"
+            href="#"
             target='blank'
             className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
           >
